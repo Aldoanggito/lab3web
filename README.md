@@ -9,11 +9,11 @@ Digunakan untuk membuat daftar dimana tiap daftar tersebut memiliki penjelasan (
 ![img]ss/ss1.png
 ![img]ss/ss2.png
 
-### Membuat Table 
+## Membuat Table 
 Digunakan untuk menyajikan data dalam bentuk kolom dan baris, tujuannya agar informasi dapat ditampilkan secara lebih terstruktur dan tabular. Tag yang paling penting untuk diingat adalah tag (table), (tr), dan (td). Sementara tag yang lain adalah tambahan (opsional), boleh digunakan boleh tidak. 
 ![img]ss/ss3.png
 
-#### Membuat Form
+## Membuat Form
 Web tidak hanya berfungsi untuk menampilkan informasi, namun dapat juga menerima data dari pengunjungnya. Salah satu cara untuk mengambil data dari pengunjung adalah dengan menggunakan form. Form pada web berlaku sama halnya dengan formulir di dunia nyata. Form dapat diisi kemudian diproses dengan program tertentu, baik dari sisi server ataupun dari sisi client. Untuk membuat form digunakan tag (form) dengan atribut action dan method. Atribut action
 untuk menentukan aksi yang akan digunakan pada saat form dikirim. Dan method adalah untuk menentukan metode yang digunakan dalam mengirimkan data.
 ![img]ss/ss4.png
